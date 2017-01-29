@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Create_Event</string>
+    <string name="action_done_edit">Done Edit</string>
+    <string name="action_back_profile">Back</string>
+    <string name= "create_event_name">Event Name</string>
+    <string name="create_event_location">Event Location</string>
+    <string name="create_event_date">Day and Date</string>
+    <string name="create_event_time">Time</string>
+    <string name="create_event_description">Description</string>
+</resources>
